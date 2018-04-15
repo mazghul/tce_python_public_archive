@@ -7,7 +7,7 @@ Please follow our basic rules mentioned below:
 * If you use any tutorials, please paste the link in the **source** section
 
 
-## Base code and Comments
+## Base code and comments
 ```
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
