@@ -7,4 +7,23 @@ Please follow our basic rules mentioned below:
 * If you use any tutorials, please paste the link in the **source** section
 
 
+```
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# the above line is to avoid 'SyntaxError: Non-UTF-8 code starting with' error
+
+'''
+author:
+    [author name(s) should come here]
+source: (if any)
+    If you followed any tutorial, please paste the link so everyone will benefit from it
+    
+    sample:
+    https://pythonspot.com/python-set/
+    
+'''
+```
+
+The above lines should be there in every **.py** file. It will help other developers to understand more about your python resources involved. Also, they can learn from those sources you shared here.
+
 
