@@ -32,8 +32,7 @@ The above lines should be there in every **.py** file. It will help other develo
 ## Python Initiator (like public static void main(..) in java)
 ```
 def main():
-    print('Main')
-    print(test())
+    print('Main')    
 
 if __name__ == '__main__':
     main()
