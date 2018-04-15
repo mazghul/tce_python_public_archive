@@ -44,7 +44,7 @@ Though it is not mandatory, we recommend you to keep this format for every .py f
 For Markdwon ref: https://guides.github.com/features/mastering-markdown/#examples
 
 ## Python Resources:
-Pyton 3:  
+Python 3:  
 https://doughellmann.com/blog/the-python-3-standard-library-by-example/the-python-3-standard-library-by-example-table-of-contents/
 
 Python Basics and Numpy from Stanford:  
