@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# the above line is to avoid 'SyntaxError: Non-UTF-8 code starting with' error
 
 '''
 author:
