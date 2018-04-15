@@ -38,7 +38,7 @@ if __name__ == '__main__':
     main()
 ```
 
-Thought it is not mandatory, we recommend you to keep this format for every .py file. 
+Though it is not mandatory, we recommend you to keep this format for every .py file. 
 
 
 For Markdwon ref: https://guides.github.com/features/mastering-markdown/#examples
