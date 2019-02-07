@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/teamtact/https://github.com/teamtact/tce_python_public_archive.svg)](http://hits.dwyl.io/teamtact/https://github.com/teamtact/tce_python_public_archive)
+
 # TCE Python Public Archive (TCE - PPA)
 TCE Python Club and their experiement files will be added here
 
